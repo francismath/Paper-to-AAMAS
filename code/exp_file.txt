@@ -1,0 +1,6 @@
+root1=[(-b - sqrt(-4*a*c + b**2))/(2*a), (-b + sqrt(-4*a*c + b**2))/(2*a)]
+
+diff_on_x=2*a*x + b
+
+diff_on_z=-sin(z)**2 + cos(z)**2
+

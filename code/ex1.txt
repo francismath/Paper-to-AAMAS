@@ -1,0 +1,6 @@
+1st value=[(-b - sqrt(-4*a*c + b**2))/(2*a), (-b + sqrt(-4*a*c + b**2))/(2*a)]
+
+2nd value=2*a*x + b
+
+3rd value=-sin(z)**2 + cos(z)**2
+
